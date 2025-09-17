@@ -44,8 +44,8 @@ By the end of this project, you should be able to explain (without Google):
    - Safely integrate third-party libraries.
 
 8. **Basic Nominal Typing**
-   - Differentiate between structural and nominal typing.
-   - Use branding techniques to simulate nominal typing.
+   - Differentiate between structural and nominal typing...
+   - Use branding techniques to simulate nominal typing...
 
 ---
 
